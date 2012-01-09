@@ -1,7 +1,7 @@
 Pro-Ject
 ======================
 
-This is just the base code for Pro-ject, a Kinect Application. If you want/need the additional code and libraries please see the full library at:  https://github.com/PaigePonzeka/-Pro-ject
+This is the base code for Pro-ject, a Kinect Application.
 
 Users use their hands to guide blocks around the stage. One white target block taunts the user (with different words and phrases). When the white block is hit enough the level, along with the music and color theme, changes.
 
