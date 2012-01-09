@@ -1,0 +1,307 @@
+// !$*UTF8*$!
+{
+	1677CFB912E291DB009B9D64 /* handJesture.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1189, 19084}}";
+			sepNavSelRange = "{10382, 0}";
+			sepNavVisRange = "{10032, 715}";
+		};
+	};
+	1677CFBA12E291DB009B9D64 /* handJesture.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1133, 1586}}";
+			sepNavSelRange = "{2249, 0}";
+			sepNavVisRange = "{500, 1112}";
+		};
+	};
+	810CD1761379F9BF008FE667 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1677CFB912E291DB009B9D64 /* handJesture.cpp */;
+		name = "handJesture.cpp: 57";
+		rLen = 0;
+		rLoc = 2103;
+		rType = 0;
+		vrLen = 1363;
+		vrLoc = 10063;
+	};
+	8166BB0313798AB700C84C16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 428;
+		vrLoc = 0;
+	};
+	8166BB1013798D9300C84C16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1677CFBA12E291DB009B9D64 /* handJesture.h */;
+		name = "handJesture.h: 110";
+		rLen = 0;
+		rLoc = 2249;
+		rType = 0;
+		vrLen = 1112;
+		vrLoc = 500;
+	};
+	8166BB1113798D9300C84C16 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 81EDC8D91349770B00B9A79A /* shape.h */;
+		name = "shape.h: 19";
+		rLen = 0;
+		rLoc = 297;
+		rType = 0;
+		vrLen = 807;
+		vrLoc = 141;
+	};
+	8182C1E213654B97007C345D /* shape.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = shape.cpp;
+		path = /Users/elizabethpelka/Desktop/mocapproject/source/apps/examples/Mocap/src/shape.cpp;
+		sourceTree = "<absolute>";
+	};
+	8182C23613655196007C345D /* shape.cpp:305 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 81EDC8DA1349770B00B9A79A /* shape.cpp */;
+		functionName = "Shape::locationError(int index)";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 305;
+		location = ofxKinectDebug;
+		modificationTime = 325429683.130174;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8182C23813655199007C345D /* shape.cpp:308 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 81EDC8DA1349770B00B9A79A /* shape.cpp */;
+		functionName = "Shape::locationError(int index)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 308;
+		location = ofxKinectDebug;
+		modificationTime = 325429666.395462;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8182C31813656CF4007C345D /* shape.cpp:61 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 81EDC8DA1349770B00B9A79A /* shape.cpp */;
+		functionName = "Shape::move()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 61;
+		location = ofxKinectDebug;
+		modificationTime = 325429665.929293;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	8186761A1379F9E2006E676A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1677CFB912E291DB009B9D64 /* handJesture.cpp */;
+		name = "handJesture.cpp: 57";
+		rLen = 0;
+		rLoc = 2103;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 9334;
+	};
+	819B0072135A47750034752D /* jestureCap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = jestureCap;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	819B00A2135A47950034752D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	819B00A3135A47950034752D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	81BDF39A135E789D00963EF3 /* shape.h:51 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 81EDC8D91349770B00B9A79A /* shape.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 51;
+		modificationTime = 325429710.367494;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	81DAF9D71379E01100EF061A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8182C1E213654B97007C345D /* shape.cpp */;
+		name = "shape.cpp: 73";
+		rLen = 0;
+		rLoc = 1694;
+		rType = 0;
+		vrLen = 1069;
+		vrLoc = 7279;
+	};
+	81EDC8D91349770B00B9A79A /* shape.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1133, 1625}}";
+			sepNavSelRange = "{297, 0}";
+			sepNavVisRange = "{141, 807}";
+		};
+	};
+	81EDC8DA1349770B00B9A79A /* shape.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = \"float val0\";\n            r = \"{5001, 14}\";\n            s = 1;\n        },\n                {\n            l = \"float val1\";\n            r = \"{5017, 14}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 9395}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1116, 4979}}";
+			sepNavSelRange = "{5007, 0}";
+			sepNavVisRange = "{4428, 1145}";
+		};
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 819B0072135A47750034752D /* jestureCap */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* jestureCap */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* jestureCap */,
+		);
+		breakpoints = (
+			81BDF39A135E789D00963EF3 /* shape.h:51 */,
+			8182C23613655196007C345D /* shape.cpp:305 */,
+			8182C23813655199007C345D /* shape.cpp:308 */,
+			8182C31813656CF4007C345D /* shape.cpp:61 */,
+		);
+		codeSenseManager = 819B00A3135A47950034752D /* Code sense */;
+		executables = (
+			819B0072135A47750034752D /* jestureCap */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					955,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326760898;
+			PBXWorkspaceStateSaveDate = 326760898;
+		};
+		perUserProjectItems = {
+			810CD1761379F9BF008FE667 /* PBXTextBookmark */ = 810CD1761379F9BF008FE667 /* PBXTextBookmark */;
+			8166BB0313798AB700C84C16 /* PBXTextBookmark */ = 8166BB0313798AB700C84C16 /* PBXTextBookmark */;
+			8166BB1013798D9300C84C16 /* PBXTextBookmark */ = 8166BB1013798D9300C84C16 /* PBXTextBookmark */;
+			8166BB1113798D9300C84C16 /* PBXTextBookmark */ = 8166BB1113798D9300C84C16 /* PBXTextBookmark */;
+			8186761A1379F9E2006E676A /* PBXTextBookmark */ = 8186761A1379F9E2006E676A /* PBXTextBookmark */;
+			81DAF9D71379E01100EF061A /* PBXTextBookmark */ = 81DAF9D71379E01100EF061A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 819B00A2135A47950034752D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* jestureCap */ = {
+		activeExec = 0;
+		executables = (
+			819B0072135A47750034752D /* jestureCap */,
+		);
+	};
+	E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1133, 553}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 428}";
+		};
+	};
+}
